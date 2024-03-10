@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Test website using Jekyll for COMP 488 Advanced Practicum in Information Technology, following the Adam Kaplan labs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: bot_gooby
+github_username:  Vaiterius
 
 # Build settings
 theme: minima
